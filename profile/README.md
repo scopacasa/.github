@@ -1,5 +1,5 @@
 # Navigation
-- [Platform](https://platform.scopacasa.net)
+- [Platform](https://www.scopacasa.net)
 - [Status](https://status.scopacasa.net)
 
 # Social Links
