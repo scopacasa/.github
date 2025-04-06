@@ -1,5 +1,4 @@
 # Navigation
-- [Docs](https://docs.scopacasa.net)
-- [Hub](https://www.scopacasa.net)
-- [Platform](https://platform.scopacasa.net)
+- [Forge](https://forge.scopacasa.net)
+- [Portal](https://www.scopacasa.net)
 - [Status](https://status.scopacasa.net)
